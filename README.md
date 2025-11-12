@@ -4,8 +4,10 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-connectivity)
 
-**Author:** Bao Luong  
-**Email:** baodevops21@gmail.com
+👨‍💻 Author: Bao Luong
+🔗 LinkedIn: linkedin.com/in/bluong21
+
+📧 Email: baodevops21@gmail.com
 
 ---
 
